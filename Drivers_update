@@ -1,2 +1,17 @@
 //Newly updated drivers need to install in this project
 //major changes happened in future
+class Major(){
+
+public void dulipicate(){
+System.out.println("this is dulipicate method");
+
+}
+
+public static void main(String[]a){
+Major ma=new Major();
+ma.dulipicate();
+
+
+}
+
+}
