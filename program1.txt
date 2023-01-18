@@ -1,0 +1,17 @@
+public class Program1{
+public static void main1(){
+System.out.println("this main1 file");
+
+}
+public static void main2(){
+System.out.println("this main2 file");
+
+}
+
+
+public static void main(String[]m){
+ main1();
+
+}
+
+}
